@@ -6,36 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Hackers</title>
     
-        <style> 
-
-        div {
-          width: 400px;
-          height: 80px;
-          background: rgb(90, 253, 14);
-          position: relative;
-          animation: myfirst 5s 2;
-          animation-direction: alternate;
-        }
         
-        @keyframes myfirst {
-          0%   {background: rgb(115, 238, 14); left: 0px; top: 0px;}
-          25%  {background: yellow; left: 20px; top: 0px;}
-          50%  {background: blue; left: 20px; top: 10px;}
-          75%  {background: green; left: 0px; top: 10px;}
-          100% {background: rgb(19, 243, 19); left: 0px; top: 0px;}
-          0%   {background: rgb(115, 238, 14); left: 0px; top: 0px;}
-          25%  {background: yellow; left: 20px; top: 0px;}
-          50%  {background: blue; left: 20px; top: 10px;}
-          75%  {background: green; left: 0px; top: 10px;}
-          100% {background: rgb(19, 243, 19); left: 0px; top: 0px;}
-        }
-
-        body {
-            background-color:gray;
-            text-decoration-color: black;
-        }
-
-        </style>
 
         
         
